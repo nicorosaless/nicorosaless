@@ -12,27 +12,5 @@ Passionate 2nd-year AI Engineering student at Universitat Politècnica de Catalu
 - **Tools**: Streamlit, Ollama, ETL Pipelines, AWS/GCP
 - **Other**: Data Viz (Dashboards), MLOps, Git, Recommendation Systems
 
-### Featured Projects
-
-#### Promptlo
-[Promptlo](https://github.com/nicorosaless/Promptlo)  
-Open-source Swift app for macOS: Instant prompt optimization via hotkey using local Ollama models.
-
-#### CooperGraph
-[CooperGraph](https://github.com/nicorosaless/CooperGraph)  
-Interactive AI knowledge graph from NASA's 600+ space biology papers—visual exploration, AI recs, and voice controls.
-
-#### WiseBuy
-[WiseBuy](https://github.com/nicorosaless/WiseBuy)  
-Browser extension analyzing online spending: Real-time financial impact feedback and enriched bank statements.
-
-#### FibroPred
-[FibroPred](https://github.com/nicorosaless/FibroPred)  
-AI prognosticator for Fibrosing Interstitial Lung Diseases—98% accuracy via PyTorch neural net, deployed on Streamlit.
-
-#### eCityClic
-[eCityClic](https://github.com/nicorosaless/ecityclic-recommender)  
-Transformer-based recommender for admin procedures: Suggests based on search history, with interactive Streamlit UI. Hackathon winner!
-
 ### Let's Connect
 Open to AI/ML internships, data engineering gigs, or collaborative hacks. Shoot me a message! 📧 nirogo06@gmail.com
