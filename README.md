@@ -1,38 +1,38 @@
-👋 Nicolás Rosales — AI Engineering Student
+# Nicolás Rosales
 
-I’m a 2nd year Artificial Intelligence Engineering student at UPC (Universitat Politècnica de Catalunya) with a strong passion for transforming data into insights and building intelligent systems that make a difference through machine learning, deep learning, and Generative AI.
+**AI Engineering Student @ UPC** | Turning data into intelligent systems with ML, DL & GenAI 🚀
 
-⸻
+Passionate 2nd-year AI Engineering student at Universitat Politècnica de Catalunya (UPC). I thrive on crafting scalable AI solutions—from neural networks and recommendation engines to voice-driven knowledge graphs. Eager to collaborate on open-source projects, internships, or real-world AI challenges. Let's build the future! 
 
-🔍 What I Do / Areas of Interest
-	•	Data engineering: pipelines, ETL, structuring data
-	•	Machine Learning & Deep Learning: neural networks, computer vision, NLP
-	•	Model evaluation, interpretability & metrics
-	•	Visualization & dashboards
-	•	Open‐source collaboration & learning through real projects
+[LinkedIn](https://www.linkedin.com/in/nicolas-rosales-gomez/) | [nicorosaless](https://github.com/nicorosaless)
 
-⸻
+### Skills
+- **Languages**: Python, Swift, Jupyter
+- **AI/ML**: PyTorch, Transformers, Neural Networks, NLP, Computer Vision
+- **Tools**: Streamlit, Ollama, ETL Pipelines, AWS/GCP
+- **Other**: Data Viz (Dashboards), MLOps, Git, Recommendation Systems
 
-🌟 Key Projects & Highlights
+### Featured Projects
 
-Some of the work I’m proud of:
-	•	ecityclic-recommender — recommendation systems project with real-world constraints
-	•	CooperGraph — exploring graph theory applications
-	•	bitsXlamarato — interactive application using Python & web technologies
+#### Promptlo
+[Promptlo](https://github.com/nicorosaless/Promptlo)  
+Open-source Swift app for macOS: Instant prompt optimization via hotkey using local Ollama models.
 
-Also, several public repos on my GitHub demonstrate hands-on practice with algorithms, data workflows, and exploratory modelling.
+#### CooperGraph
+[CooperGraph](https://github.com/nicorosaless/CooperGraph)  
+Interactive AI knowledge graph from NASA's 600+ space biology papers—visual exploration, AI recs, and voice controls.
 
-⸻
+#### WiseBuy
+[WiseBuy](https://github.com/nicorosaless/WiseBuy)  
+Browser extension analyzing online spending: Real-time financial impact feedback and enriched bank statements.
 
-🚀 What Drives Me Now
-	•	Creating scalable, well-engineered AI solutions that can be integrated into products
-	•	Working in multidisciplinary teams combining frontend, backend & data science
-	•	Deepening my knowledge in MLOps, cloud infrastructures (AWS/GCP), deployment, continuous integration
-	•	Contributing to open source, learning from other developers, staying up-to-date with the field
+#### FibroPred
+[FibroPred](https://github.com/nicorosaless/FibroPred)  
+AI prognosticator for Fibrosing Interstitial Lung Diseases—98% accuracy via PyTorch neural net, deployed on Streamlit.
 
-⸻
+#### eCityClic
+[eCityClic](https://github.com/nicorosaless/ecityclic-recommender)  
+Transformer-based recommender for admin procedures: Suggests based on search history, with interactive Streamlit UI. Hackathon winner!
 
-📫 Let’s Connect
-	•	LinkedIn: Nicolás Rosales Gómez
-	•	GitHub: nicorosaless
-	•	I’m open to internships, collaborative projects, and opportunities to grow in AI / data engineering.
+### Let's Connect
+Open to AI/ML internships, data engineering gigs, or collaborative hacks. Shoot me a message! 📧 nirogo06@gmail.com
