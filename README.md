@@ -1,6 +1,6 @@
 # Nicolás Rosales
 
-**AI Engineering Student @ UPC** | Turning data into intelligent systems with ML, DL & GenAI 🚀
+**AI Engineering Student @ UPC** | Turning data into intelligent systems with ML, DL & GenAI 
 
 Passionate 2nd-year AI Engineering student at Universitat Politècnica de Catalunya (UPC). I thrive on crafting scalable AI solutions—from neural networks and recommendation engines to voice-driven knowledge graphs. Eager to collaborate on open-source projects, internships, or real-world AI challenges. Let's build the future! 
 
