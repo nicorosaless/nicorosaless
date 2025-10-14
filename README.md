@@ -9,7 +9,6 @@ Passionate 2nd-year AI Engineering student at Universitat Politècnica de Catalu
 ### Skills
 - **Languages**: Python, Swift, Jupyter
 - **AI/ML**: PyTorch, Transformers, Neural Networks, NLP, Computer Vision
-- **Tools**: Streamlit, Ollama, ETL Pipelines, AWS/GCP
 - **Other**: Data Viz (Dashboards), MLOps, Git, Recommendation Systems
 
 ### Let's Connect
