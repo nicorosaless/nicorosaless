@@ -1,15 +1,18 @@
 # Nicolás Rosales
 
-**AI Engineering Student @ UPC** | Turning data into intelligent systems with ML, DL & GenAI 
+AI Engineering student at Universitat Politècnica de Catalunya (UPC). Director of the Stochastic Thinking Institute and master of the Recursive version control policies (commit, regret, revert, repeat).
 
-Passionate 2nd-year AI Engineering student at Universitat Politècnica de Catalunya (UPC). I thrive on crafting scalable AI solutions—from neural networks and recommendation engines to voice-driven knowledge graphs. Eager to collaborate on open-source projects, internships, or real-world AI challenges. Let's build the future! 
 
-[LinkedIn](https://www.linkedin.com/in/nicolas-rosales-gomez/) | [nicorosaless](https://github.com/nicorosaless)
 
-### Skills
-- **Languages**: Python, Swift, Jupyter
-- **AI/ML**: PyTorch, Transformers, Neural Networks, NLP, Computer Vision
-- **Other**: Data Viz (Dashboards), MLOps, Git, Recommendation Systems
+### What have I done
+
+
+### Currently working on/studying
+- Obviously my classes
+- The Hands On machine learning book by Aurélien Géron
+- Latent space with VAEs
+
+
 
 ### Let's Connect
-Open to AI/ML internships, data engineering gigs, or collaborative hacks. Shoot me a message! 📧 nirogo06@gmail.com
+Currently looking for internships, contact me on nirogo06@gmail.com. Also, my LinkedIn is (https://www.linkedin.com/in/nicolas-rosales-gomez/)
