@@ -1,12 +1,11 @@
-# Hi there, I'm Nicolás 👋
+# Hi there, I'm Nicolás 
 
 I’m a 2nd-year AI Engineering student at UPC 
 
 I enjoy developing new projects.
 
----
-
---- ### Achievements
+--- 
+### Achievements
 
 - Winner of the Mango Challenge at the 2025 FME UPC Datathon
 - Winner at HackUDC for the Kelea Challenge with the project Sentikelia
@@ -15,8 +14,10 @@ I enjoy developing new projects.
 
 ---
 
-### Current Focus
-Working on Deep learning projects
+## Current Focus
+
+Working on deep learning algorithms.
+
 ---
 
 ### Let's Connect
