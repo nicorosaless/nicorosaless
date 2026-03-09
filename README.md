@@ -1,15 +1,30 @@
-# Nicolás Rosales
+# Hi there, I'm Nicolás 👋
 
-**AI Engineering Student @ UPC** | Turning data into intelligent systems with ML, DL & GenAI 
+I’m a 2nd-year AI Engineering student at UPC 
 
-Passionate 2nd-year AI Engineering student at Universitat Politècnica de Catalunya (UPC). I thrive on crafting scalable AI solutions—from neural networks and recommendation engines to voice-driven knowledge graphs. Eager to collaborate on open-source projects, internships, or real-world AI challenges.
+I enjoy developing new projects.
 
-[LinkedIn](https://www.linkedin.com/in/nicolas-rosales-gomez/) | [nicorosaless](https://github.com/nicorosaless) | [devpost](https://devpost.com/nirogo06)
+---
 
-### Skills
-- **Languages**: Python, Swift, Jupyter
-- **AI/ML**: PyTorch, Transformers, Neural Networks, NLP, Computer Vision
-- **Other**: Data Viz (Dashboards), MLOps, Git, Recommendation Systems
+--- ### Achievements
+
+- Winner of the Mango Challenge at the 2025 FME UPC Datathon
+- Winner at HackUDC for the Kelea Challenge with the project Sentikelia
+- Winner at LleidaHACK 2024 for the eCityclic AI challenge
+- Winner of the AI Voice Hackathon by Enzo Ventures, Murphy & ElevenLabs
+
+---
+
+### Current Focus
+Working on Deep learning projects
+---
 
 ### Let's Connect
-Open to AI/ML internships, data engineering gigs, or collaborative hacks. Shoot me a message! nirogo06@gmail.com
+
+You can contact me through my email, at **nirogo06@gmail.com**.
+
+---
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-rosales-gomez/)  
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/nirogo06)
