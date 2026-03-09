@@ -1,8 +1,6 @@
 # Hi there, I'm Nicolás 
 
-I’m a 2nd-year AI Engineering student at UPC 
-
-I enjoy developing new projects.
+I’m a 2nd-year AI Engineering student at UPC. I enjoy developing new projects.
 
 --- 
 ### Achievements
