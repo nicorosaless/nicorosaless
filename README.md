@@ -9,14 +9,10 @@ AI Engineering student at Universitat Politècnica de Catalunya (UPC). Director 
 
 ### Currently working on/studying
 - Obviously my classes
-- The Hands On machine learning book by Aurélien Géron
+- The Deep Learning book by Goodfellow and DDIA by Martin Mleppmann
 - Latent space with VAEs
 
 
-
-### Let's Connect
-Currently looking for internships, contact me on nirogo06@gmail.com. Also, my LinkedIn is (https://www.linkedin.com/in/nicolas-rosales-gomez/)
-I’m a 2nd-year AI Engineering student at UPC. I enjoy developing new projects.
 
 --- 
 ### Achievements
