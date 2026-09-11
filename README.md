@@ -9,8 +9,8 @@ AI Engineering student at Universitat Politècnica de Catalunya (UPC). Director 
 
 ### Currently working on/studying
 - Obviously my classes
-- The Deep Learning book by Goodfellow and DDIA by Martin Mleppmann
-- Latent space with VAEs
+- Inference Engineering book by Philip Kiely
+
 
 
 
