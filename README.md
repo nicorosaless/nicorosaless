@@ -1,7 +1,6 @@
 # Hi there, I'm Nicolás 
 
-AI Engineering student at Universitat Politècnica de Catalunya (UPC). Director of the Stochastic Thinking Institute and master of the Recursive version control policies (commit, regret, revert, repeat).
-
+3rd AI Engineering student at Universitat Politècnica de Catalunya (UPC). 
 
 
 ### What have I done
